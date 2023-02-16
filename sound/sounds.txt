@@ -1,0 +1,15 @@
+Sounds for this mod were sourced from freesound.org.
+
+All sounds used in this mod were created under a Creative Commons 0 license.
+
+slingshot_firecracker.wav -- https://freesound.org/people/scorepion/sounds/372606/ CC-0 License.
+slingshot_firecracker2.wav -- https://freesound.org/people/Walking.With.Microphones/sounds/559842/ CC-0 License
+--
+slingshot_rubberpull.wav
+slingshot_rubberpull2.wav
+slingshot_rubberpull3.wav
+slingshot_rubberpull4.wav
+slingshot_rubberpull5.wav
+slingshot_rubberpull6.wav
+https://freesound.org/people/JackMenhorn/sounds/136493/ CC-0 License
+--
