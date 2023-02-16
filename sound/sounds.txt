@@ -20,3 +20,6 @@ slingshot_release4.wav -- https://freesound.org/people/saturdaysoundguy/sounds/3
 slingshot_release5.wav -- https://freesound.org/people/saturdaysoundguy/sounds/394198/ CC-0 License
 slingshot_release6.wav -- https://freesound.org/people/saturdaysoundguy/sounds/394202/ CC-0 License 
 slingshot_release7.wav -- https://freesound.org/people/saturdaysoundguy/sounds/394204/ CC-0 License
+--
+slingshot_craftedbreaking.wav -- https://freesound.org/people/SoundCollectah/sounds/109359/ CC-0 License
+slingshot_rubberbreaking.wav -- https://freesound.org/people/wilhellboy/sounds/351373/ CC-0 License
