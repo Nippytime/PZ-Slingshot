@@ -13,3 +13,10 @@ slingshot_rubberpull5.wav
 slingshot_rubberpull6.wav
 https://freesound.org/people/JackMenhorn/sounds/136493/ CC-0 License
 --
+slingshot_release.wav -- https://freesound.org/people/saturdaysoundguy/sounds/394190/ CC-0 License
+slingshot_release2.wav -- https://freesound.org/people/saturdaysoundguy/sounds/394189/ CC-0 License
+slingshot_release3.wav -- https://freesound.org/people/saturdaysoundguy/sounds/394191/ CC-0 License
+slingshot_release4.wav -- https://freesound.org/people/saturdaysoundguy/sounds/394192/ CC-0 License
+slingshot_release5.wav -- https://freesound.org/people/saturdaysoundguy/sounds/394198/ CC-0 License
+slingshot_release6.wav -- https://freesound.org/people/saturdaysoundguy/sounds/394202/ CC-0 License 
+slingshot_release7.wav -- https://freesound.org/people/saturdaysoundguy/sounds/394204/ CC-0 License
